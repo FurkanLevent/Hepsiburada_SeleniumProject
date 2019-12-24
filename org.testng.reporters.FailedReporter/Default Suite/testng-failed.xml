@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test name="Amazon(failed)">
+    <classes>
+      <class name="Test_Clases.TestNG_Search">
+        <methods>
+          <include name="TestFlyTestCase"/>
+          <include name="TestHotelCase"/>
+          <include name="setup"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- Test_Clases.TestNG_Search -->
+    </classes>
+  </test> <!-- Amazon(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
