@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79929b76-7585-4040-ad50-a65ff735e9a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Functions/waitForPageLoad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/Login.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Crawler/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Crawler/src/Crawler.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Expedia/src/Drivers/chromedriver" afterDir="false" />
@@ -15,7 +13,6 @@
       <change afterPath="$PROJECT_DIR$/../n11.com/.idea/libraries/Maven__org_apache_poi_poi_4_1_1.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../n11.com/TestCase.xlsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../n11.com/src/excelExportAndFileIO/ReadExcelFile_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Drivers/chromedriver" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Expedia/src/main/java/Test_Clases/JUnit_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/../n11.com/src/main/java/Test_Clases/JUnit_Search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Expedia/src/main/java/Test_Clases/TestNG_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/../n11.com/src/main/java/Test_Clases/TestNG_Search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Expedia_Test/.idea/compiler.xml" beforeDir="false" />
@@ -96,11 +93,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Test_Clases/JUnit_TestCases.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="167" column="5" selection-start-line="20" selection-start-column="4" selection-end-line="167" selection-end-column="5" />
+            <state relative-caret-position="104">
+              <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -130,7 +127,7 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -192,7 +189,7 @@
         <option value="Furkan Levent Oturaklıoğlu &lt;furkanleventoturaklioglu@gmail.com&gt;" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubProjectSettings">
     <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
@@ -280,13 +277,10 @@
             <path>
               <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
               <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Test_Clases" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
@@ -601,6 +595,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4969697" visible="true" weight="0.27539343" />
       <window_info id="Structure" order="1" sideWeight="0.5030303" side_tool="true" weight="0.27539343" />
@@ -802,16 +797,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Test_Clases/JUnit_TestCases.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="167" column="5" selection-start-line="20" selection-start-column="4" selection-end-line="167" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Test_Clases/TestNG_Search.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
@@ -851,10 +836,30 @@
     <entry file="file://$PROJECT_DIR$/org.testng.reporters.FailedReporter/emailable-report.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/Test_Clases/JUnit_Search.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#1354#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test_Clases/JUnit_TestCases.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
