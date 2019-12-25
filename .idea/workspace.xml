@@ -13,6 +13,8 @@
       <change afterPath="$PROJECT_DIR$/../n11.com/.idea/libraries/Maven__org_apache_poi_poi_4_1_1.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../n11.com/TestCase.xlsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../n11.com/src/excelExportAndFileIO/ReadExcelFile_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Expedia/Drivers/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Expedia/META-INF/Expedia.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Expedia/src/main/java/Test_Clases/JUnit_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/../n11.com/src/main/java/Test_Clases/JUnit_Search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Expedia/src/main/java/Test_Clases/TestNG_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/../n11.com/src/main/java/Test_Clases/TestNG_Search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Expedia_Test/.idea/compiler.xml" beforeDir="false" />
@@ -259,7 +261,31 @@
             <path>
               <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
               <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Drivers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
@@ -273,18 +299,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Test_Clases" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -595,7 +609,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4969697" visible="true" weight="0.27539343" />
       <window_info id="Structure" order="1" sideWeight="0.5030303" side_tool="true" weight="0.27539343" />
