@@ -1,10 +1,13 @@
+
+
 Selenium Amazon.com Example with Java
 
 ---
+****
 
 
 Test Environment Information:
----
+--
 
 
 IDE : IntelliJ IDEA 2019.1
@@ -17,6 +20,7 @@ Log4J version: 2.10.0
 OS : macOS 10.13.6
 Browser : Chrome 79.0.3945.88
 Chrome Driver version : 79.0.3945.16
+
 ----
 
 
