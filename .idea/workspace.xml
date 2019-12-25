@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79929b76-7585-4040-ad50-a65ff735e9a6" name="Default Changelist" comment="added pom.xml">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Functions/waitForPageLoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/Login.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Crawler/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Crawler/src/Crawler.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Expedia/src/Drivers/chromedriver" afterDir="false" />
@@ -13,8 +15,8 @@
       <change afterPath="$PROJECT_DIR$/../n11.com/.idea/libraries/Maven__org_apache_poi_poi_4_1_1.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../n11.com/TestCase.xlsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../n11.com/src/excelExportAndFileIO/ReadExcelFile_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Expedia/Drivers/chromedriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Expedia/META-INF/Expedia.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Drivers/chromedriver" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Expedia/src/main/java/Test_Clases/JUnit_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/../n11.com/src/main/java/Test_Clases/JUnit_Search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Expedia/src/main/java/Test_Clases/TestNG_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/../n11.com/src/main/java/Test_Clases/TestNG_Search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Expedia_Test/.idea/compiler.xml" beforeDir="false" />
@@ -98,8 +100,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Test_Clases/JUnit_TestCases.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
+            <state relative-caret-position="270">
+              <caret line="58" selection-start-line="58" selection-end-line="60" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -132,8 +134,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="216">
+              <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -229,6 +231,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Test_Clases/Tests_JUnit.java" />
         <option value="$PROJECT_DIR$/src/main/java/Test_Clases/Tests_TestNG.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Test_Clases/JUnit_TestCases.java" />
       </list>
     </option>
   </component>
@@ -300,6 +303,26 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Test_Clases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Amazon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -338,7 +361,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestNG_Testcases">
+  <component name="RunManager">
     <configuration name="homepage" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java.Pages.homepage" />
       <module name="Amazon" />
@@ -488,8 +511,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestNG_Testcases" />
         <item itemvalue="JUnit.JUnit_TestCases" />
+        <item itemvalue="TestNG.TestNG_Testcases" />
         <item itemvalue="JUnit.testCase" />
         <item itemvalue="JUnit.testCase.test_1_5_clickPageAndPageTwoOpenedControl" />
         <item itemvalue="JUnit.JUnit_Search" />
@@ -567,18 +590,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tests_JUnit - 2019.12.24 at 23h 55m 53s.xml">
-      <configuration name="Tests_JUnit" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tests_JUnit - 2019.12.24 at 23h 57m 45s.xml">
-      <configuration name="Tests_JUnit" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tests_JUnit - 2019.12.24 at 23h 58m 30s.xml">
-      <configuration name="Tests_JUnit" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Tests_JUnit - 2019.12.24 at 23h 59m 11s.xml">
-      <configuration name="Tests_JUnit" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Tests_JUnit - 2019.12.25 at 00h 00m 34s.xml">
       <configuration name="Tests_JUnit" configurationId="JUnit" />
     </history-entry>
@@ -597,6 +608,18 @@
     <history-entry file="Tests_TestNG - 2019.12.25 at 00h 09m 49s.xml">
       <configuration name="Tests_TestNG" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="TestNG_Testcases - 2019.12.26 at 00h 20m 59s.xml">
+      <configuration name="TestNG_Testcases" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="JUnit_TestCases - 2019.12.26 at 00h 21m 11s.xml">
+      <configuration name="JUnit_TestCases" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JUnit_TestCases - 2019.12.26 at 00h 21m 27s.xml">
+      <configuration name="JUnit_TestCases" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JUnit_TestCases - 2019.12.26 at 00h 22m 26s.xml">
+      <configuration name="JUnit_TestCases" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -609,6 +632,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4969697" visible="true" weight="0.27539343" />
       <window_info id="Structure" order="1" sideWeight="0.5030303" side_tool="true" weight="0.27539343" />
@@ -861,15 +885,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="216">
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Test_Clases/JUnit_TestCases.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
+        <state relative-caret-position="270">
+          <caret line="58" selection-start-line="58" selection-end-line="60" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
