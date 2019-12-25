@@ -1,8 +1,9 @@
-
 Selenium Amazon.com Example with Java
+-----
 
 
 Test Environment Information:
+--
 
 
 IDE : IntelliJ IDEA 2019.1
@@ -20,6 +21,7 @@ Chrome Driver version : 79.0.3945.16
 
 
 Configuraions:
+--
 
  —- For JUnit Test:
 
@@ -52,7 +54,7 @@ Login.enterPassword(driver).sendKeys(“testuser.2019");
 
 
 Test Scenarios:
-
+---
 1) Open http://www.amazon.com site and confirm that the homepage is open,
 2) Open the login screen and log in with a user (if it is already a member of the site)
 3) Type 'samsung' in the Search field at the top of the screen and click the Search button,
