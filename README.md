@@ -1,7 +1,7 @@
 
 Selenium Amazon.com Example with Java
 
-****
+*****
 
 
 Test Environment Information:
@@ -19,7 +19,7 @@ OS : macOS 10.13.6
 Browser : Chrome 79.0.3945.88
 Chrome Driver version : 79.0.3945.16
 
---
+---
 
 
 
@@ -54,7 +54,8 @@ Login.enterPassword(driver).sendKeys(“testuser.2019");
 
 
 3) Run TestNG_Tesrcases.java . Test cases will start running.
---
+
+---
 
 
 
