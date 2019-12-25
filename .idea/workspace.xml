@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79929b76-7585-4040-ad50-a65ff735e9a6" name="Default Changelist" comment="added pom.xml">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Functions/waitForPageLoad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/Login.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Crawler/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Crawler/src/Crawler.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Expedia/src/Drivers/chromedriver" afterDir="false" />
@@ -15,8 +13,6 @@
       <change afterPath="$PROJECT_DIR$/../n11.com/.idea/libraries/Maven__org_apache_poi_poi_4_1_1.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../n11.com/TestCase.xlsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../n11.com/src/excelExportAndFileIO/ReadExcelFile_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Drivers/chromedriver" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Expedia/src/main/java/Test_Clases/JUnit_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/../n11.com/src/main/java/Test_Clases/JUnit_Search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Expedia/src/main/java/Test_Clases/TestNG_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/../n11.com/src/main/java/Test_Clases/TestNG_Search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Expedia_Test/.idea/compiler.xml" beforeDir="false" />
@@ -97,7 +93,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Test_Clases/JUnit_TestCases.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -106,6 +102,13 @@
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-52" />
           </provider>
         </entry>
       </file>
@@ -898,6 +901,11 @@
             <element signature="imports" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-52" />
       </provider>
     </entry>
   </component>
