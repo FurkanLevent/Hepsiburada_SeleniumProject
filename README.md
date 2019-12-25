@@ -52,12 +52,12 @@ Login.enterPassword(driver).sendKeys(“testuser.2019");
 
 
 3) Run TestNG_Tesrcases.java . Test cases will start running.
-----
-----
+--
+
 
 
 Test Scenarios:
-----
+--
 1) Open http://www.amazon.com site and confirm that the homepage is open,
 2) Open the login screen and log in with a user (if it is already a member of the site)
 3) Type 'samsung' in the Search field at the top of the screen and click the Search button,
