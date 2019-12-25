@@ -1,5 +1,5 @@
 Selenium Amazon.com Example with Java
-----
+
 ---
 
 
@@ -18,7 +18,7 @@ OS : macOS 10.13.6
 Browser : Chrome 79.0.3945.88
 Chrome Driver version : 79.0.3945.16
 ----
----
+
 
 
 
