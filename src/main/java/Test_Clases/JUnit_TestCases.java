@@ -2,8 +2,6 @@ package Test_Clases;
 
 import org.junit.*;
 import org.junit.runners.MethodSorters;
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -38,7 +36,7 @@ public class JUnit_TestCases {
         driver.manage().window().maximize();
     }
 
-
+/*
     //1.  http://www.amazon.com sitesine gelecek ve anasayfanin acildigini onaylayacak,
     @Test
     public void testCase_001(){
@@ -57,7 +55,6 @@ public class JUnit_TestCases {
         //Assert.assertTrue(findById("continue").getText().equals("Sign-In"));
         System.out.println("Sayfa kullanıcı girişi için hazır ...");
         Login.enterEmail(driver).sendKeys("testuser.2019az@gmail.com");
-        Login.contiuneBtn(driver).click();
         Login.enterPassword(driver).sendKeys("testuser.2019");
         Login.signinBtn(driver).click();
         new waitForPageLoad();
@@ -70,7 +67,6 @@ public class JUnit_TestCases {
     @Test
     public void testCase_003(){
        // wait.until(elementClickableById.elementClickableById("twotabsearchtextbox"));
-        HomePage.searchTxtBox(driver).sendKeys("samsung");
         HomePage.searchBtn(driver).click();
         System.out.println("Samsung için sonuç bulundu");
     }
@@ -80,7 +76,7 @@ public class JUnit_TestCases {
     @Test
     public void testCase_004(){
         //wait.until(elementClickableByClassName("a-section a-spacing-small a-spacing-top-small"));
-        String resultOk=Pages.SearchPage.searchResult(driver).getText();
+        String resultOk= bizeUlasinPage.searchResult(driver).getText();
         Assert.assertTrue(resultOk.contains("results for "));
         System.out.println("Samsung sonucu verify edildi.");
 
@@ -90,7 +86,7 @@ public class JUnit_TestCases {
     //5. Arama sonuclarindan 2. sayfaya tiklayacak ve acilan sayfada 2. sayfanin su an gosterimde oldugunu onaylayacak,
     @Test
     public void testCase_005(){
-        Pages.SearchPage.nextPage(driver).click();
+        bizeUlasinPage.nextPage(driver).click();
         new waitForPageLoad();
         Assert.assertTrue(driver.getPageSource().contains("2"));
         System.out.println("2. Sayfa Gösterimde ...");
@@ -101,9 +97,9 @@ public class JUnit_TestCases {
     @Test
     public void testCase_006(){
         //Listede 3. Ürün Oluşana Kadar Bekle
-        selectedFavoriteProduct=Pages.SearchPage.getElementTextBy(driver);
-        Pages.SearchPage.thirdProduct(driver).click();
-        Pages.SearchPage.wishListBtn(driver).click();
+        selectedFavoriteProduct= bizeUlasinPage.getElementTextBy(driver);
+        bizeUlasinPage.thirdProduct(driver).click();
+        bizeUlasinPage.wishListBtn(driver).click();
         System.out.println("Favoriye Eklenen Ürün Adı : "+selectedFavoriteProduct);
     }
 
@@ -114,7 +110,7 @@ public class JUnit_TestCases {
         //JavascriptExecutor js = (JavascriptExecutor)driver;
         //js.executeScript("arguments[1].click();", driver.findElement(By.cssSelector("css=a.nav-link.nav-item > span.nav-text")));
 
-        Pages.SearchPage.wishList(driver).click();
+        bizeUlasinPage.wishList(driver).click();
 
         new waitForPageLoad();
     }
@@ -165,6 +161,6 @@ public class JUnit_TestCases {
     public static void tearDown(){
         driver.close();
 
-    }
+    }*/
 }
 

@@ -12,23 +12,18 @@ public class Login {
 
 
     public static WebElement enterEmail(WebDriver driver) {
-        element = driver.findElement(By.id("ap_email"));
+        element = driver.findElement(By.id("email"));
         return element;
     }
 
-
-    public static WebElement contiuneBtn(WebDriver driver) {
-        element = driver.findElement(By.id("continue"));
-        return element;
-    }
 
     public static WebElement enterPassword(WebDriver driver) {
-        element = driver.findElement(By.id("ap_password"));
+        element = driver.findElement(By.id("password"));
         return element;
     }
 
     public static WebElement signinBtn(WebDriver driver) {
-        element = driver.findElement(By.id("signInSubmit"));
+        element = driver.findElement(By.className("form-actions"));
         return element;
     }
 
