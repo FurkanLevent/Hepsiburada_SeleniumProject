@@ -11,7 +11,7 @@ public class bizeUlasinPage {
     static WebElement element;
 
 
-    public static WebElement siparis (WebDriver driver) {
+    public static WebElement selectOrder (WebDriver driver) {
         Select oSelect = new Select(driver.findElement(By.name("selectedOrder")));
         oSelect.selectByValue("63824023");
       //  oSelect.selectByIndex(2);
@@ -20,7 +20,7 @@ public class bizeUlasinPage {
     }
 
 
-    public static WebElement selectedLine (WebDriver driver) {
+    public static WebElement selectOrderLine (WebDriver driver) {
         Select oSelect = new Select(driver.findElement(By.name("selectedLine")));
         oSelect.selectByValue("2");
     //    oSelect.selectByIndex(2);
