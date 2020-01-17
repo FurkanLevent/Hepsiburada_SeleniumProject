@@ -92,8 +92,9 @@ public class TestNG_Testcases {
     @Test
     public void testCase_002()throws Exception{
         try{
-        Login.enterEmail(driver).sendKeys("furkanleventoturaklioglu@gmail.com");
-        Login.enterPassword(driver).sendKeys("120502031");
+            //please enter your account informations.
+        Login.enterEmail(driver).sendKeys("");
+        Login.enterPassword(driver).sendKeys("");
         Login.signinBtn(driver).click();
         new waitForPageLoad();
         System.out.println("Kullanıcı Girişi Başarılı ...");

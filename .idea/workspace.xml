@@ -81,16 +81,9 @@
       <change beforePath="$PROJECT_DIR$/../Expedia_Test/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Expedia_Test/Expedia_Test.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Expedia_Test/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshots/Logiin error.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshots/page error.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshots/select error.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/bizeUlasinPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/bizeUlasinPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test_Clases/JUnit_TestCases.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Test_Clases/TestNG_Testcases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test_Clases/TestNG_Testcases.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Test_Clases/JUnit_TestCases.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test_Clases/TestNG_Testcases.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test_Clases/TestNG_Testcases.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../peachy/.classpath" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../peachy/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../peachy/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" beforeDir="false" />
@@ -164,7 +157,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testing.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -177,7 +170,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Test_Clases/TestNG_Testcases.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="271">
-              <caret line="94" column="5" lean-forward="true" selection-start-line="94" selection-start-column="5" selection-end-line="95" selection-end-column="58" />
+              <caret line="94" column="53" selection-start-line="94" selection-start-column="53" selection-end-line="94" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -185,11 +178,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            <state relative-caret-position="585">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
         </entry>
@@ -369,6 +362,48 @@
               <item name="Hepsiburada_SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hepsiburada_SeleniumProject" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Hepsiburada_SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hepsiburada_SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hepsiburada_SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hepsiburada_SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hepsiburada_SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hepsiburada_SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hepsiburada_SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hepsiburada_SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hepsiburada_SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hepsiburada_SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hepsiburada_SeleniumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hepsiburada_SeleniumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Test_Clases" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -385,15 +420,16 @@
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Video" />
+      <recent name="$PROJECT_DIR$/src/Drivers" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main/java/Drivers" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Drivers" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/Source" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Drivers" />
-      <recent name="$PROJECT_DIR$/src/main/java" />
-      <recent name="$PROJECT_DIR$/src/main/java/Drivers" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -692,6 +728,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4969697" visible="true" weight="0.16309012" />
       <window_info id="Structure" order="1" sideWeight="0.5030303" side_tool="true" weight="0.27539343" />
@@ -913,27 +950,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/testing.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Test_Clases/TestNG_Testcases.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
-          <caret line="94" column="5" lean-forward="true" selection-start-line="94" selection-start-column="5" selection-end-line="95" selection-end-column="58" />
+          <caret line="94" column="53" selection-start-line="94" selection-start-column="53" selection-end-line="94" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testing.xml">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="585">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
